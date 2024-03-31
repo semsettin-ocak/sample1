@@ -1,0 +1,1 @@
+file3 is added on second branch (feature). Then, It is ready to merge now.
